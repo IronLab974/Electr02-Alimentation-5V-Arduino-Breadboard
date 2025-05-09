@@ -1,4 +1,4 @@
-# Transformateur d'Alimentation 5V 3A pour Projets Arduino
+# Alimentation 5V 3A pour Projets Arduino
 
 Ce guide pas à pas vous montre comment transformer une alimentation 5V 3A (type alimentation USB, LED ou autres) en une source d'alimentation stable pour vos projets Arduino, ESP32, servomoteurs, modules, etc., sur une breadboard.
 
@@ -50,7 +50,9 @@ Ce guide pas à pas vous montre comment transformer une alimentation 5V 3A (type
 
 ### 4. Souder les pins mâles
 
-> Soudez chaque fil sur un connecteur mâle Dupont :
+> Soudez chaque fil sur un connecteur mâle :
+> N'hésitez pas à utiliser du flux de soudure si vous en avez à disposition.
+
 - Le +5V (souvent rouge) sur une pin
 - Le GND (souvent noir) sur une autre
 
@@ -98,6 +100,7 @@ IronLab — Passionné d'électronique, robotique & projets DIY
 Compte marchand :
 
 [TikTok](https://www.tiktok.com/@corail.creation) | [Site marchand](https://www.corail-creation.re)
+
 ---
 
 ## 📄 Licence
