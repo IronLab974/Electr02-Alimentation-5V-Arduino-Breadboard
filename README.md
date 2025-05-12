@@ -92,14 +92,19 @@ Ce guide pas à pas vous montre comment transformer une alimentation 5V 3A (type
 
 ---
 
-## ✍️ Auteur
+## ✍️ Nos projets
 
 IronLab — Passionné d'électronique, robotique & projets DIY  
+
 [YouTube](https://youtube.com/@ironlab_974) | [TikTok](https://www.tiktok.com/@ironlab_974) | [Instagram](https://www.instagram.com/ironlab_974)
 
-Compte marchand :
+AquaLab — La téchnologie au service du monde marin & chasse au trésor.
 
-[TikTok](https://www.tiktok.com/@corail.creation) | [Site marchand](https://www.corail-creation.re)
+[YouTube](https://youtube.com/@aqualab_974) | [TikTok](https://www.tiktok.com/@aqualab_974) | [Instagram](https://www.instagram.com/aqualab_974)
+
+Corail Création — Notre boutique
+
+[TikTok](https://www.tiktok.com/@corail.creation) | [Instagram](https://www.instagram.com/corail.creation) | [Site marchand](https://www.corail-creation.re)
 
 ---
 
